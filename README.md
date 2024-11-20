@@ -7,7 +7,7 @@ There is a lot of domains :
 - Deep Learning (Tensorflow)
 - LLM
 - Computer vision
-- EDA and data preprocessing
+- EDA, data preprocessing and data preparation
 - User recommandation (SVD)
 - OOP
 - Search Algorithms
