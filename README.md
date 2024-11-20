@@ -8,6 +8,6 @@ There is a lot of domains :
 - LLM
 - Computer vision
 - EDA and data preprocessing
-- SVD
+- User recommandation (SVD)
 - OOP
 - Search Algorithms
