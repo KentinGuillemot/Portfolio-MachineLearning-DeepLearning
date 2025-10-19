@@ -1,0 +1,9 @@
+card_transdata.csv filter=lfs diff=lfs merge=lfs -text
+explo[[:space:]]EDA.ipynb filter=lfs diff=lfs merge=lfs -text
+Neural[[:space:]]Network.ipynb filter=lfs diff=lfs merge=lfs -text
+Stage[[:space:]]1.ipynb filter=lfs diff=lfs merge=lfs -text
+XGBoost.ipynb filter=lfs diff=lfs merge=lfs -text
+cleaned_data.csv filter=lfs diff=lfs merge=lfs -text
+Stage[[:space:]]1_1.ipynb filter=lfs diff=lfs merge=lfs -text
+Stage[[:space:]]2.ipynb filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
